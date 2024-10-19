@@ -62,7 +62,8 @@ The system consists of six tables:
 
 This project includes a series of SQL queries that perform different operations on the database. Below is a list of 12 queries, with screenshots provided for their outputs:
 
-1. Retrieve book title, category, and rental price of all available books.
+1. Retrieve book title, category, and rental price of all available books.![Screenshot (16)](https://github.com/user-attachments/assets/1a92f697-7f42-47bf-8c5f-19734adcf1c5)
+
 2. List employee names and salaries in descending order of salary.
 3. Retrieve book titles and corresponding customers who have issued those books.
 4. Display the total count of books in each category.
