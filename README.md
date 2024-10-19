@@ -100,6 +100,4 @@ This project includes a series of SQL queries that perform different operations 
 
 4. Verify the outputs by checking the provided screenshots.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
